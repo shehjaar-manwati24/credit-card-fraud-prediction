@@ -10,6 +10,7 @@ app = FastAPI()
 
 @app.get("/")
 def home():
+    
     return {"message": "Fraud Detection API is running!"}
 
 @app.post("/predict/")
