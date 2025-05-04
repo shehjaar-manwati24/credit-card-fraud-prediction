@@ -73,9 +73,3 @@ This project focuses on identifying fraudulent credit card transactions using ma
 - Add model explainability using SHAP
 - Deploy as a REST API with FastAPI for real-time fraud alerts
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-# credit-card-fraud-prediction
